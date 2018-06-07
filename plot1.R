@@ -32,7 +32,7 @@ readdata <- function (input)
     return (datatbl)
 }
 
-createplot <-function ()
+createplot1 <-function ()
 {
   outfile <- "plot1.png"
   infile <- "../household_power_consumption.txt"

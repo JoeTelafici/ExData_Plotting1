@@ -32,7 +32,7 @@ readdata <- function (input)
     return (datatbl)
 }
 
-createplot <-function ()
+createplot3 <-function ()
 {
   library (ggplot2)
   outfile <- "plot3.png"

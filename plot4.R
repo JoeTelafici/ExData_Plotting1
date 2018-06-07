@@ -32,7 +32,7 @@ readdata <- function (input)
   return (datatbl)
 }
 
-createplot <-function ()
+createplot4 <-function ()
 {
   library (ggplot2)
   library (gridExtra)

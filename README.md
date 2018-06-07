@@ -1,3 +1,10 @@
+
+#Branch by Joe Telafici
+
+Included are four .R files, (plot1.R to plot4.R) and their corresponding output .png files (plot1.png to plot4.png).
+
+NOTE: the function used to create the plot is called "createplotN" in all four files, where N is the number of the plot in quesiton.  Make sure you source the file before running createplot so you get the right version of output.  ggplot2 and gridExtra libraries are required.
+
 ## Introduction
 
 This assignment uses data from

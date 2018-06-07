@@ -31,7 +31,7 @@ readdata <- function (input)
     return (datatbl)
 }
 
-createplot <-function ()
+createplot2 <-function ()
 {
   library (lattice)
   outfile <- "plot2.png"
